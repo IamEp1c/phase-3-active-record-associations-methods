@@ -25,5 +25,5 @@ ActiveRecord::Schema.define(version: 2021_07_16_172742) do
     t.integer "artist_id"
     t.integer "genre_id"
   end
-
+#songs gives access to artists and genres
 end
